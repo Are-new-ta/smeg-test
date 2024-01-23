@@ -1,0 +1,16 @@
+{
+  "name": "smeg",
+  "version": "1.0.0",
+  "description": "Данный проект представляет собой одностраничную \"лендинговую\" страницу о SMEG.",
+  "main": "index.js",
+  "scripts": {
+    "start": "css-to-bem-file-structure styles.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-to-bem-file-structure": "^0.0.5"
+  }
+}

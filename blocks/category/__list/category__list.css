@@ -1,0 +1,20 @@
+.category__list {
+  list-style: none;
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(3, 370px);
+  gap: 20px 17px;
+  margin: 50px 0 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  min-height: 30vh;
+}
+
+@media screen and (min-width: 1285px) {
+  .category__list {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}

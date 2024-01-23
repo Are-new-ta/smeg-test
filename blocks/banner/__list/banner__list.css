@@ -1,0 +1,6 @@
+.banner__list {
+  list-style: none;
+  list-style-type: square;
+  padding-left: 20px;
+  margin: 0 0 50px 0;
+}

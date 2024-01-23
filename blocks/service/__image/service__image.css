@@ -1,0 +1,8 @@
+.service__image {
+  display: block;
+  object-fit: cover;
+  background-position: center;
+  width: 35px;
+  height: 35px;
+  margin-right: 10px;
+}

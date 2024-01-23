@@ -1,0 +1,9 @@
+.banner__form-submit {
+  font-size: 15px;
+  font-weight: bolder;
+  height: 49.2px;
+  width: 42%;
+  background: red;
+  border-radius: 10px;
+  cursor: pointer;
+}

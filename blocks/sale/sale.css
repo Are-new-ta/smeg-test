@@ -1,0 +1,7 @@
+.sale {
+  background: url(./images/sale.jpg) 50% 50% no-repeat;
+  height: 520px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}

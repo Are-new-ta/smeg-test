@@ -1,0 +1,11 @@
+.feedback__policy {
+  font-size: 10px;
+  color: #777;
+  font-style: italic;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+.feedback__policy a {
+  color: #777;
+}

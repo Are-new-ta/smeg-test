@@ -1,0 +1,12 @@
+.how-work__image {
+  font-size: 50px;
+  color: red;
+  border: 3px solid red;
+  width: 70px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  border-radius: 15px;
+}

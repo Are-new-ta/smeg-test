@@ -1,0 +1,12 @@
+.policy {
+  font-size: 10px;
+  color: #777;
+  font-style: italic;
+  text-align: center;
+  text-align: start;
+  margin: 0;
+  padding: 0;
+}
+.policy a {
+  color: #777;
+}
